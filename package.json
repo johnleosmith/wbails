@@ -1,22 +1,17 @@
 {
-  "name": "@zeppeliorg/wbails",
+  "name": "github:johnleosmith/wbails",
   "version": "1.0.8",
-  "description": "WhatsApp Modified By 7eppeli",
+  "description": "WhatsApp Modified By JohnleoSmith",
   "keywords": [
     "whatsapp-baileys",
-    "7eppeli",
-    "7eppeli.org",
-    "7eppsynC",
-    "zeppeliorg",
-    "qwerty-xcv",
-    "tenka-san"
+    "xinvasionx"
   ],
-  "homepage": "https://www.npmjs.com/package/@zeppeliorg/wbails",
+  "homepage": "https://github:johnleosmith/wbails",
   "repository": {
-    "url": "https://www.npmjs.com/package/@zeppeliorg/wbails"
+    "url": "https://github:johnleosmith/wbails"
   },
   "license": "MIT",
-  "author": "7eppeli.pdf",
+  "author": "TheLonerDev",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
